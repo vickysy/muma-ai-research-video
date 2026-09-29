@@ -1,0 +1,6 @@
+interface:
+  display_name: "木妈AI新品研究视频"
+  short_description: "从创始人问题与真实案例出发，制作小白看得懂的研究视频、官网风格封面及发布文案"
+  default_prompt: "用 $muma-ai-research-video 研究这个 AI 产品，结合创始人一手资料、真实演示和我的体验，完成约三分钟视频、官网风格横竖封面及双平台发布文案。"
+policy:
+  allow_implicit_invocation: true
